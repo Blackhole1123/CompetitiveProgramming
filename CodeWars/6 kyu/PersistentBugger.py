@@ -1,8 +1,3 @@
-from audioop import mul
-from posixpath import split
-from turtle import clear
-
-
 def splitint(n):
     return [int(i) for i in str(n)]
 
